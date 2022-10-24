@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/GuessThatSongGame/static/css/main.a7cf0eda.css",
-    "main.js": "/GuessThatSongGame/static/js/main.81094676.js",
+    "main.js": "/GuessThatSongGame/static/js/main.df29a884.js",
     "index.html": "/GuessThatSongGame/index.html",
     "main.a7cf0eda.css.map": "/GuessThatSongGame/static/css/main.a7cf0eda.css.map",
-    "main.81094676.js.map": "/GuessThatSongGame/static/js/main.81094676.js.map"
+    "main.df29a884.js.map": "/GuessThatSongGame/static/js/main.df29a884.js.map"
   },
   "entrypoints": [
     "static/css/main.a7cf0eda.css",
-    "static/js/main.81094676.js"
+    "static/js/main.df29a884.js"
   ]
 }
